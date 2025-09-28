@@ -1,4 +1,4 @@
 # Shooter-game-Python
-- Download ZIP
+- Click code --> Download ZIP
 - Extract zipnya
 - Buka file Shooter-game-Python
